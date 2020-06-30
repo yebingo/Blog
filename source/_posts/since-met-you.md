@@ -1,9 +1,10 @@
 ---
-title: 自从遇见你
+title: since met you
 date: 2020-06-29 21:03:46
-index_img: /img/avatar.png
+index_img: /img/hand.jpg
 tags:
 ---
+自从遇见你
 
 黑白的生活变得充满了阳光
 
