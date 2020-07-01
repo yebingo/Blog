@@ -1,7 +1,7 @@
 ---
-title: a song No.1
+title: A Song No.1
 date: 2020-06-30 17:21:27
-index_img: /img/leaf.jpg
+index_img: /img/cd.jpg
 tags:
 ---
 ![photo](/img/album.jpg)
@@ -46,10 +46,6 @@ tags:
 这一首简单的歌,
 
 并没有什么独特
-
-王力宏
-
-王力宏
 
 好像我
 

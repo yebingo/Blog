@@ -1,7 +1,7 @@
 ---
-title: a photo
+title: A Photo
 date: 2020-06-30 16:25:18
-index_img: /img/rose.jpg
+index_img: /img/camera.jpg
 tags:
 ---
 ![photo](/img/photo.jpeg)
