@@ -85,9 +85,9 @@ start from here
 
 i don't care where we go
 
-let's start from here um…
+let's start from here
 
-let's start from here oh…
+let's start from here
 
 let's start from here
 
