@@ -4,10 +4,11 @@ date: 2020-06-30 17:21:27
 index_img: /img/cd.jpg
 tags:
 ---
-![photo](/img/wanglihong.jpg)
 
 ## 一首简单的歌
 > 这是王力宏在2004年发表的一首歌曲，第一次听觉得很普通，但是慢慢的，歌词让我体会到对待爱情的那份克制、简单、深情，让我触动，让我不由自主想把这些词，说给你听。
+
+<div id="aplayer" style="margin: 20px 0;"></div>
 
 这世界很复杂,
 
@@ -73,3 +74,19 @@ tags:
 
 深刻
 
+<style>
+@import url('//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css')
+</style>
+<script src="//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.js" defer></script>
+<script type="text/javascript">
+  var oldLoadAp = window.onload;
+  window.onload = function () {
+    oldLoadAp && oldLoadAp();
+
+    new APlayer({
+      container: document.getElementById('aplayer'),
+      autoplay: false,
+      audio: { name: '一首简单的歌', artist: '王力宏', url: '/song/1.mp3', cover: '/img/wanglihong.jpg', }
+    });
+  }
+</script>

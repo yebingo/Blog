@@ -4,10 +4,11 @@ date: 2020-07-01 20:41:00
 index_img: /img/earphone.jpg
 tags:
 ---
-![photo](/img/wangruolin.jpg)
 
 ## 迷宫
 > 《迷宫》是王若琳演唱的一首歌，收录于王若琳2008年发行的专辑《Start From Here》中，歌词似乎描绘了刚相识的情侣即将要在一起，对爱情未来的不确定性抱有惊喜，心怀期待。整个作品似乎有一种慵懒、颓废的曲风，相信这也是你比较喜欢的一首歌吧
+
+<div id="aplayer" style="margin: 20px 0;"></div>
 
 看着你看窗外
 
@@ -92,3 +93,20 @@ let's start from here
 let's start from here
 
 let's start from here
+
+<style>
+@import url('//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css')
+</style>
+<script src="//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.js" defer></script>
+<script type="text/javascript">
+  var oldLoadAp = window.onload;
+  window.onload = function () {
+    oldLoadAp && oldLoadAp();
+
+    new APlayer({
+      container: document.getElementById('aplayer'),
+      autoplay: false,
+      audio: { name: '迷宫', artist: '王若琳', url: '/song/2.mp3', cover: '/img/wangruolin.jpg', }
+    });
+  }
+</script>
