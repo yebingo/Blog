@@ -1,6 +1,6 @@
 ---
 title: A Photo
-date: 2020-06-30 16:25:18
+date: 2020-06-24 16:25:18
 index_img: /img/camera.jpg
 tags:
 ---

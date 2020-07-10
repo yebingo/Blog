@@ -1,6 +1,6 @@
 ---
 title: A Song No.1
-date: 2020-06-30 17:21:27
+date: 2020-06-02 17:21:27
 index_img: /img/cd.jpg
 tags:
 ---
