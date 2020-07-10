@@ -4,7 +4,7 @@ date: 2020-06-30 16:25:18
 index_img: /img/camera.jpg
 tags:
 ---
-![photo](/img/photo.jpeg)
+<img src="/img/photo.jpeg" style="max-width: 90%;margin: 1.5rem auto;display: block;box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15) !important;border-radius: 3px;image-orientation:initial">
 
 很喜欢这张照片
 
