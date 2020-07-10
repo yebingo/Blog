@@ -1,6 +1,6 @@
 ---
 title: A Song No.2
-date: 2020-06-04 17:41:00
+date: 2020-06-05 17:41:00
 index_img: /img/earphone.jpg
 tags:
 ---
