@@ -39,7 +39,7 @@ tags:
 
 Miss Luka,
 
-I miss you so bad！
+miss you so bad！
 
 <img src="/img/yahong.jpeg" style="width: 50%;margin: 1.5rem auto;display: block;box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15) !important;border-radius: 3px;image-orientation:initial"/>
 
