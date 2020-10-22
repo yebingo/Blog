@@ -1,5 +1,5 @@
 ---
-title: About Myself
+title: About Bingo
 date: 2020-09-30 15:16:56
 index_img: /img/me.jpg
 tags:
