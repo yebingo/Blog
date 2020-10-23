@@ -5,7 +5,7 @@ index_img: /img/me.jpg
 tags:
 ---
 
-## About Myself
+## About Bingo
 
 <div id="aplayer" style="margin: 20px 0;"></div>
 
