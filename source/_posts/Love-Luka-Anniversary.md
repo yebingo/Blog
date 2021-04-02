@@ -77,6 +77,11 @@ dear luka:
 
 <img src="/img/yahongyeah.jpeg" style="width: 60%;margin: 1.5rem auto;display: block;box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15) !important;border-radius: 3px;image-orientation:initial"/>
 
+### 视频
+<video controls="controls" style="width: 90%;margin: 1.5rem auto;display: block;">
+  <source src="/video/love-luka-anniversary.webm" type="video/webm">
+</video>
+
 <style>
 @import url('//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css')
 </style>
