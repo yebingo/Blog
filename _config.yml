@@ -100,6 +100,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@49.232.46.31:/home/git/blog.git       
-  branch: master                           
-  message:      
+  repo: git@121.5.159.71:/home/git/blog.git
+  branch: master
+  message:
