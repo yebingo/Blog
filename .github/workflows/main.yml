@@ -6,7 +6,7 @@ name: '自动部署博客网站'
 # 触发 workflow 的条件
 on:
   push:
-    branches: master
+    branches: [master]
 
 # workflow 需要执行的任务
 jobs:
@@ -32,7 +32,7 @@ jobs:
         run: npm run build
 
       # 链接服务器上传打包后的目录文件
-      - name: Deploy to DNSPOD
+      - name: Deploy to Tencent Cloud
         uses: burnett01/rsync-deployments@4.1
         with:
           switches: -avzr --progress --delete
